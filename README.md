@@ -15,6 +15,14 @@ This Power BI project provides a complete Human Resources analytics dashboard de
 
 ---
 
+##  Tools & Technologies
+
+- **Power BI Desktop**: Used for all dashboard creation, modeling, and visualizations  
+- **DAX**: Calculated measures for service duration, promotion eligibility, layoffs  
+- **Excel/CSV**: Assumed format for employee dataset import
+
+ --- 
+ 
 ##  Data Sources
 
 ### Employee Master Data  
@@ -103,14 +111,6 @@ This Power BI project provides a complete Human Resources analytics dashboard de
 - Improve **engagement and satisfaction** in low-rated departments.  
 - Focus **promotion tracking** on long-tenured employees.  
 - Introduce **commute wellness programs** based on distance data.  
-
----
-
-##  Tools & Technologies
-
-- **Power BI Desktop**: Used for all dashboard creation, modeling, and visualizations  
-- **DAX**: Calculated measures for service duration, promotion eligibility, layoffs  
-- **Excel/CSV**: Assumed format for employee dataset import
 
 ---
 
